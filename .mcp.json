@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "likefolio": {
+      "type": "http",
+      "url": "https://likefolio.ai/claude/mcp"
+    }
+  }
+}

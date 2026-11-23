@@ -1,0 +1,27 @@
+{
+  "name": "likefolio",
+  "displayName": "LikeFolio",
+  "version": "1.0.0",
+  "description": "LikeFolio's consumer-demand scores for about 4,000 public companies, plus a map of nearly 39,000 brands to the companies that own them. Read-only, no sign-in.",
+  "author": {
+    "name": "LikeFolio",
+    "email": "support@likefolio.com",
+    "url": "https://likefolio.ai"
+  },
+  "homepage": "https://likefolio.ai",
+  "repository": "https://github.com/SwanPowers/likefolio-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "stocks",
+    "consumer demand",
+    "brands",
+    "investing research",
+    "finance",
+    "LikeFolio"
+  ],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://likefolio.ai/support",
+  "supportUrl": "https://likefolio.ai/support",
+  "privacyPolicyUrl": "https://likefolio.ai/privacy",
+  "termsOfServiceUrl": "https://likefolio.ai/terms"
+}
